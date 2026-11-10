@@ -1,5 +1,8 @@
 Project: Simple Hugging Face Chatbot in Google Colab
 
+model_name = "microsoft/DialoGPT-medium"
+
+
 How it works
 
 The script loads a pretrained conversational model from Hugging Face.
